@@ -1,4 +1,4 @@
-object = [];
+objects = [];
 video = ""
 status1 = ""
 function preload(){
